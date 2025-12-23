@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+automation_log.txt
+
+*_report.xlsx
+
+venv/
+.env
