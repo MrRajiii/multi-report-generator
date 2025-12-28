@@ -1,4 +1,4 @@
-# 📊 Multi-Report Generator (PyQt5)
+# Multi-Report Generator (PyQt5)
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5">
@@ -8,7 +8,7 @@
 
 A Python desktop application for generating multiple business reports from CSV files with **Excel export**. Built with **PyQt5** and **Pandas**, featuring a modern dark-mode GUI using **qdarkstyle**.
 
-## ✨ Features
+## Features
 
 * **Multi-Report Generation:** Generate Inventory, Sales, HR, Marketing, and Feedback reports from CSV files.
 * **Excel Export:** Reports are saved automatically as `.xlsx` files.
@@ -24,7 +24,7 @@ A Python desktop application for generating multiple business reports from CSV f
 * **Excel Export:** OpenPyXL
 * **UI Styling:** qdarkstyle
 
-## 💻 Installation and Setup
+## Installation and Setup
 
 1. **Clone the Repository:**
     ```bash
@@ -49,7 +49,7 @@ A Python desktop application for generating multiple business reports from CSV f
 3. Click **Generate Report** – the Excel file will be saved automatically.  
 4. Check the `automation_log.txt` for detailed logs.
 
-## 🧪 Supported Reports & Required Columns
+## Supported Reports & Required Columns
 
 | Report Type | Required Columns |
 |------------|----------------|
@@ -59,7 +59,7 @@ A Python desktop application for generating multiple business reports from CSV f
 | Marketing | Campaign, Clicks, Conversions, Spend |
 | Feedback | Date, Category, Rating |
 
-## 🌱 Future Enhancements
+## Future Enhancements
 
 * Chart & graph visualization
 * Batch CSV processing
